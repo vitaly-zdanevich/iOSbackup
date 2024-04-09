@@ -31,6 +31,7 @@ On macOS, get native Python 3 from Apple with command `xcode-select --install`. 
 
 `pycryptodome` has an API compatible with older `pycrypto`, which should also work with `iOSbackup`. But `pycryptodome` is more well maintained and easier to install on Windows and macOS.
 
+See package name for your system package manager at [Repology](https://repology.org/project/python:iosbackup/versions).
 
 ## Usage
 
